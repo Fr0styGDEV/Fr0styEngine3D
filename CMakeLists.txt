@@ -2,6 +2,6 @@ cmake_minimum_required(VERSION 3.10) # Specify the minimum required CMake versio
 
 project(Fr0styEngine3D LANGUAGES CXX) # Define the project name and language(s)
 
-add_executable(FE 
+add_executable(${PROJECT_NAME} 
     main.cpp
 )

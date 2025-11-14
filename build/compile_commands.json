@@ -1,8 +1,8 @@
 [
 {
   "directory": "C:/Users/trott/OneDrive/Desktop/C++ Projects/Fr0styEngine3D/build",
-  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -g -o CMakeFiles\\FE.dir\\main.cpp.obj -c \"C:\\Users\\trott\\OneDrive\\Desktop\\C++ Projects\\Fr0styEngine3D\\main.cpp\"",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -g -o CMakeFiles\\Fr0styEngine3D.dir\\main.cpp.obj -c \"C:\\Users\\trott\\OneDrive\\Desktop\\C++ Projects\\Fr0styEngine3D\\main.cpp\"",
   "file": "C:/Users/trott/OneDrive/Desktop/C++ Projects/Fr0styEngine3D/main.cpp",
-  "output": "C:/Users/trott/OneDrive/Desktop/C++ Projects/Fr0styEngine3D/build/CMakeFiles/FE.dir/main.cpp.obj"
+  "output": "C:/Users/trott/OneDrive/Desktop/C++ Projects/Fr0styEngine3D/build/CMakeFiles/Fr0styEngine3D.dir/main.cpp.obj"
 }
 ]

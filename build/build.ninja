@@ -41,39 +41,39 @@ include CMakeFiles/rules.ninja
 
 cmake_ninja_workdir = C$:/Users/trott/OneDrive/Desktop/C++$ Projects/Fr0styEngine3D/build/
 # =============================================================================
-# Object build statements for EXECUTABLE target FE
+# Object build statements for EXECUTABLE target Fr0styEngine3D
 
 
 #############################################
-# Order-only phony target for FE
+# Order-only phony target for Fr0styEngine3D
 
-build cmake_object_order_depends_target_FE: phony || .
+build cmake_object_order_depends_target_Fr0styEngine3D: phony || .
 
-build CMakeFiles/FE.dir/main.cpp.obj: CXX_COMPILER__FE_unscanned_Debug C$:/Users/trott/OneDrive/Desktop/C++$ Projects/Fr0styEngine3D/main.cpp || cmake_object_order_depends_target_FE
+build CMakeFiles/Fr0styEngine3D.dir/main.cpp.obj: CXX_COMPILER__Fr0styEngine3D_unscanned_Debug C$:/Users/trott/OneDrive/Desktop/C++$ Projects/Fr0styEngine3D/main.cpp || cmake_object_order_depends_target_Fr0styEngine3D
   CONFIG = Debug
-  DEP_FILE = CMakeFiles\FE.dir\main.cpp.obj.d
+  DEP_FILE = CMakeFiles\Fr0styEngine3D.dir\main.cpp.obj.d
   FLAGS = -g
-  OBJECT_DIR = CMakeFiles\FE.dir
-  OBJECT_FILE_DIR = CMakeFiles\FE.dir
+  OBJECT_DIR = CMakeFiles\Fr0styEngine3D.dir
+  OBJECT_FILE_DIR = CMakeFiles\Fr0styEngine3D.dir
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target FE
+# Link build statements for EXECUTABLE target Fr0styEngine3D
 
 
 #############################################
-# Link the executable FE.exe
+# Link the executable Fr0styEngine3D.exe
 
-build FE.exe: CXX_EXECUTABLE_LINKER__FE_Debug CMakeFiles/FE.dir/main.cpp.obj
+build Fr0styEngine3D.exe: CXX_EXECUTABLE_LINKER__Fr0styEngine3D_Debug CMakeFiles/Fr0styEngine3D.dir/main.cpp.obj
   CONFIG = Debug
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = CMakeFiles\FE.dir
+  OBJECT_DIR = CMakeFiles\Fr0styEngine3D.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_FILE = FE.exe
-  TARGET_IMPLIB = libFE.dll.a
-  TARGET_PDB = FE.exe.dbg
+  TARGET_FILE = Fr0styEngine3D.exe
+  TARGET_IMPLIB = libFr0styEngine3D.dll.a
+  TARGET_PDB = Fr0styEngine3D.exe.dbg
 
 
 #############################################
@@ -101,7 +101,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # =============================================================================
 # Target aliases.
 
-build FE: phony FE.exe
+build Fr0styEngine3D: phony Fr0styEngine3D.exe
 
 # =============================================================================
 # Folder targets.
@@ -111,7 +111,7 @@ build FE: phony FE.exe
 #############################################
 # Folder: C:/Users/trott/OneDrive/Desktop/C++ Projects/Fr0styEngine3D/build
 
-build all: phony FE.exe
+build all: phony Fr0styEngine3D.exe
 
 # =============================================================================
 # Built-in targets

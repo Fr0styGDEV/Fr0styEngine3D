@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "FE.exe"
+			"path" : "Fr0styEngine3D.exe"
 		},
 		{
-			"path" : "FE.pdb"
+			"path" : "Fr0styEngine3D.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -48,7 +48,7 @@
 			]
 		}
 	],
-	"id" : "FE::@6890427a1f51a3e7e1df",
+	"id" : "Fr0styEngine3D::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -64,8 +64,8 @@
 		],
 		"language" : "CXX"
 	},
-	"name" : "FE",
-	"nameOnDisk" : "FE.exe",
+	"name" : "Fr0styEngine3D",
+	"nameOnDisk" : "Fr0styEngine3D.exe",
 	"paths" : 
 	{
 		"build" : ".",
